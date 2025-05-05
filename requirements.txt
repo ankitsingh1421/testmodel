@@ -1,0 +1,8 @@
+fastapi
+gunicorn
+uvicorn
+pillow
+ultralytics
+requests
+opencv-python-headless
+gradio
